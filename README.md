@@ -14,6 +14,7 @@ You have freedom to implement this app using any component tree structure and hi
 	- [ ] Clicking on a city from the results opens a sidebar containing the city’s details: name, country, number of likes, latitude, and longitude.
 - Bonus:
 	- [ ] 	App is styled similarly to the finished app.
+	- [ ] 	Accomplish the above requirements with Redux.
 	- [ ] Implement frontend tests using Jest, React Testing Library, and/or Enzyme.
 
 ## Notes
